@@ -43,6 +43,7 @@ header ul {
 header li {
     list-style-type: none;
     text-decoration: none;
+    font-size: 20px;
 }
 
 header i {
