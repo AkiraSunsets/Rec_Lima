@@ -152,6 +152,7 @@ a {
     margin-left: 20px;
     margin-bottom: 20px;
     margin-right: 20px;
+    margin-top: 10px;
 }
 
 .formacao-academica img {
@@ -194,3 +195,11 @@ footer p {
     text-align: center;
 }
 
+
+hr {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 900px;
+    margin: 0 auto;
+
+}
