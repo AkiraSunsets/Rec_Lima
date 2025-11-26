@@ -167,7 +167,8 @@ a {
     margin-right: auto;
     margin-top: 20px;
     border-radius: 20px;
-    border-bottom: 20px;
+    margin-bottom: 20px;
+    
 }
 
 .formacao-academica-info h2 {
